@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bradyWhite14
+- 👋 Hi, I’m @bradyWhite
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Computer Science at EKU
 - 💞️ I’m looking to collaborate on ...
