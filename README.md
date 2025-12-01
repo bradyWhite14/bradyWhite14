@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @bradyWhite
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Computer Science at EKU
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me jamesbwhite0@gmail.com
-- 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+Hi, I'm Brady White 👋
 
-<!---
-bradyWhite14/bradyWhite14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a Computer Science major specializing in Artificial Intelligence and Data Science at Eastern Kentucky University.
+I am developing skills in Deep Learning and MLOps solutions.
+I am seeking Summer 2026 internships in ML Engineering or Data Science.
+
+Reach Me!
+jamesbwhite0@gmail.com
+www.linkedin.com/in/jamesbradywhite15
