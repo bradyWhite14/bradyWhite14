@@ -8,7 +8,6 @@ I am actively seeking **Summer 2026** internships in ML Engineering or Data Scie
 
 ### 🧠 Core Technical Stack & Expertise
 
-Recruiters look for these specific tools. Use them to show your full capabilities.
 
 | Area | Key Tools Highlighted |
 | :--- | :--- |
