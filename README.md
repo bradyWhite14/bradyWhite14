@@ -32,7 +32,6 @@ My repositories focus on translating raw data into actionable insights through c
 
 * **🏀 NCAA Performance Analytics Dashboard:** A real-time analytics suite for Kentucky Basketball. Built with **Python & Streamlit** to scrape Sports-Reference data and visualize player efficiency metrics using **Plotly** dual-axis charts.
 * **📊 Automated Data Pipelines:** Scripts designed to scrape, clean, and normalize disparate web data (HTML tables) into structured datasets for analysis.
-* **🌐 E-Commerce Database Systems:** Full-stack implementation of inventory management and transaction processing using **PHP and SQL**.
 
 ---
 
